@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jyoti-Saklani/Movie-Suggester.git/static/css/main.e45fb457.css",
+    "main.js": "/Jyoti-Saklani/Movie-Suggester.git/static/js/main.3f58cfd9.js",
+    "index.html": "/Jyoti-Saklani/Movie-Suggester.git/index.html",
+    "main.e45fb457.css.map": "/Jyoti-Saklani/Movie-Suggester.git/static/css/main.e45fb457.css.map",
+    "main.3f58cfd9.js.map": "/Jyoti-Saklani/Movie-Suggester.git/static/js/main.3f58cfd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45fb457.css",
+    "static/js/main.3f58cfd9.js"
+  ]
+}
